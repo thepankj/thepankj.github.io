@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Other | Pankaj Gupta</title>
+    <link>https://thepankj.github.io/tag/other/</link>
+      <atom:link href="https://thepankj.github.io/tag/other/index.xml" rel="self" type="application/rss+xml" />
+    <description>Other</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Pankaj Gupta</copyright><lastBuildDate>Wed, 27 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://thepankj.github.io/media/icon_hu08131c586629f9b7726ef88c89e96ecf_641407_512x512_fill_lanczos_center_2.png</url>
+      <title>Other</title>
+      <link>https://thepankj.github.io/tag/other/</link>
+    </image>
+    
+    <item>
+      <title>Sudoku Solver</title>
+      <link>https://thepankj.github.io/project/sudoku-solver/</link>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://thepankj.github.io/project/sudoku-solver/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

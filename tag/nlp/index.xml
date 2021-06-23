@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NLP | Pankaj Gupta</title>
+    <link>https://thepankj.github.io/tag/nlp/</link>
+      <atom:link href="https://thepankj.github.io/tag/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <description>NLP</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Pankaj Gupta</copyright><lastBuildDate>Sun, 27 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://thepankj.github.io/media/icon_hu08131c586629f9b7726ef88c89e96ecf_641407_512x512_fill_lanczos_center_2.png</url>
+      <title>NLP</title>
+      <link>https://thepankj.github.io/tag/nlp/</link>
+    </image>
+    
+    <item>
+      <title>Fake News Classification</title>
+      <link>https://thepankj.github.io/project/fake-news-clessification/</link>
+      <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://thepankj.github.io/project/fake-news-clessification/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

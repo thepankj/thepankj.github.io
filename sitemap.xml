@@ -20,6 +20,21 @@
     <loc>https://thepankj.github.io/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://thepankj.github.io/tag/deep-learning/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thepankj.github.io/tag/other/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thepankj.github.io/project/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thepankj.github.io/project/sudoku-solver/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thepankj.github.io/tags/</loc>
+    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://thepankj.github.io/courses/</loc>
     <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url><url>
@@ -38,9 +53,6 @@
     <loc>https://thepankj.github.io/post/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://thepankj.github.io/tags/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://thepankj.github.io/post/getting-started/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -49,6 +61,21 @@
   </url><url>
     <loc>https://thepankj.github.io/category/%E6%95%99%E7%A8%8B/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thepankj.github.io/project/multiclass-image-classification/</loc>
+    <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thepankj.github.io/project/fake-news-clessification/</loc>
+    <lastmod>2020-09-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thepankj.github.io/tag/machine-learning/</loc>
+    <lastmod>2020-09-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thepankj.github.io/tag/nlp/</loc>
+    <lastmod>2020-09-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://thepankj.github.io/project/employee-attrition-prediction/</loc>
+    <lastmod>2020-06-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thepankj.github.io/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
@@ -76,24 +103,6 @@
   </url><url>
     <loc>https://thepankj.github.io/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thepankj.github.io/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thepankj.github.io/tag/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thepankj.github.io/project/example/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thepankj.github.io/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thepankj.github.io/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://thepankj.github.io/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://thepankj.github.io/publication-type/2/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
